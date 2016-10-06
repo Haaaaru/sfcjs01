@@ -2,29 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>情報基礎２第2回</title>
+    <title>情報基礎２第2回CSS</title>
   </head>
   <body>
-      <h1>タグの解説</h1>
-      <p></p>
-       <h2>input type="submit"</h2> 
-　　　　   <p>フォームの送信ボタン、リセットボタンを作成する</p>
-       <h2>table</h2>
-          <p>テーブルを作成する</p>
-       <h2>form</h2>
-          <p>入力フォームを作成する</p>
-      <h2>button</h2>
-          <p>ボタンを作成する</p>
-      <h2>ruby</h2>
-          <p>ルビをふる</p>
-      <h2>video</h2>
-          <p>動画を再生する</p>
-      <h2>audio</h2>
-           <p>音声を再生する</p>
-　　　 <h2>input type="hidden"</h2>
-          <p>非表示データを送信する</p>
-    
-    <h1>CSSの紹介と説明</h1>
+      <h1>CSSの解説</h1>
+      <h3>CSSの紹介と説明</h3>
        <h2>background-image</h2> 
 　　　　   <p>background-imageプロパティは、背景画像を指定する際に使用する。背景画像はURLで指定</p>
        <h2>font-variant</h2>
@@ -39,8 +21,6 @@
           <p>英語などのテキストの大文字表示・小文字表示を指定する際に使用する。</p>
       <h2>text-indent</h2>
            <p>文章の段落などの一行目のインデント幅を指定する際に使用。インデントには負の値を指定することも可。 </p>
-
-<p></p>
-    <h2>今日は<strong>微分・積分が</strong>休講</h2>
+　　
   </body>
 </html>
